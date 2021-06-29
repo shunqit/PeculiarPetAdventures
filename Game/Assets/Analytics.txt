@@ -1,0 +1,46 @@
+===================================================
+=== Peculiar Pet Adventures || Player Analytics ===
+===================================================
+
+Tot. time played	= 00:05:31
+
+Per Level data:
+	Level 1:
+
+		Hightscore				= 0
+		Lowscore				= 0
+
+		Tot. time played		= 00:00:00
+		Min. time completed		= 00:00:00
+		Max. time completed		= 00:00:00
+		Nr. of completed		= 0
+		Nr. of uncompleted		= 0
+		Min. pet clicks used	= 0 out of 0
+		Max. pet clicks used	= 0 out of 0
+
+	Level 2:
+
+		Hightscore				= 0
+		Lowscore				= 0
+
+		Tot. time played		= 00:00:00
+		Min. time completed		= 00:00:00
+		Max. time completed		= 00:00:00
+		Nr. of completed		= 0
+		Nr. of uncompleted		= 0
+		Min. pet clicks used	= 0 out of 0
+		Max. pet clicks used	= 0 out of 0
+
+	Level 3:
+
+		Hightscore				= 100
+		Lowscore				= 100
+
+		Tot. time played		= 00:05:31
+		Min. time completed		= 00:05:31
+		Max. time completed		= 00:05:31
+		Nr. of completed		= 1
+		Nr. of uncompleted		= 24
+		Min. pet clicks used	= 0 out of 3
+		Max. pet clicks used	= 0 out of 3
+
